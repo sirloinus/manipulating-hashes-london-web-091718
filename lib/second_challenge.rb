@@ -8,8 +8,8 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
 
-binding.pry
-puts groceries.values
 
+puts groceries.values
+binding.pry
 
 end
