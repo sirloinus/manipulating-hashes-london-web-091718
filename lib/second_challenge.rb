@@ -9,7 +9,7 @@ def second_challenge
   }
 
 
-groceries.values
+combined_groceries = groceries.values.flatten
 binding.pry
 
 end
