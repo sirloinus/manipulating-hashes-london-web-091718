@@ -9,7 +9,7 @@ def second_challenge
   }
 
 
-puts groceries.values
+groceries.values
 binding.pry
 
 end
